@@ -517,7 +517,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="WAWAKGEgnUksABWYjRFB-16" value="Posible polimorfismo para metodos en los que se añaden argumentos (-m, -t ...) al comando ???" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-296" y="190" width="170" height="110" as="geometry" />
+          <mxGeometry x="-290" y="190" width="170" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
